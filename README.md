@@ -33,4 +33,4 @@ Welcome to STAR ME!
 # About Lu'Xun
 石在，火种是不会绝的。
 
-[鲁迅](https://upload.wikimedia.org/wikipedia/commons/5/5b/Lu_Xun3.jpg)
+![鲁迅](https://upload.wikimedia.org/wikipedia/commons/5/5b/Lu_Xun3.jpg)
